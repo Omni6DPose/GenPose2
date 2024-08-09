@@ -1,0 +1,11 @@
+pytorch3d
+__pycache__
+networks/pts_encoder/pointnet2_utils/pointnet2/build
+networks/pts_encoder/pointnet2_utils/pointnet2/dist
+networks/pts_encoder/pointnet2_utils/pointnet2/pointnet2.egg-info
+common/build
+common/dist
+common/cutoop.egg-info
+configs/obj_meta.json
+configs/real_obj_meta.json
+results/*
